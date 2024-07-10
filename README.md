@@ -7,6 +7,7 @@
 [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://gophers.slack.com/messages/awesome)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-go/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Fgo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Fgo?ref=badge_shield)
 
 We use the _[Golang Bridge](https://github.com/gobridge/about-us/blob/master/README.md)_ community Slack for instant communication, follow the [form here to join](https://invite.slack.golangbridge.org/).
 
@@ -3685,3 +3686,7 @@ _Add the group of your city/country here (send **PR**)_
 - [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
 
 **[⬆ back to top](#contents)**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Fgo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Fgo?ref=badge_large)
